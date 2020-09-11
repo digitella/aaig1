@@ -982,7 +982,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #b6a188;
+  background-color: #b13939;
 }
 .cid-rUTuXtqKzG button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1083,7 +1083,7 @@ a {
   width: 0%;
   display: block;
   height: 3px;
-  background: #b6a188;
+  background: #ff2424;
   position: absolute;
   top: 2px;
   left: 0;
@@ -1126,7 +1126,7 @@ a {
   position: relative !important;
   width: 0%;
   height: 2px;
-  background-color: #b6a188;
+  background-color: #354463;
   margin-top: 4px !important;
   transition: width .3s;
   top: 83% !important;
