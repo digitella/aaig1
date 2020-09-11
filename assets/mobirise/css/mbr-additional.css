@@ -1472,7 +1472,7 @@ a {
 }
 .cid-rUTuZfMywc {
   padding-top: 45px;
-  padding-bottom: 75px;
+  padding-bottom: 45px;
   position: relative;
   background-color: #ffffff;
 }
@@ -1504,7 +1504,7 @@ a {
 .cid-rUTuZfMywc .card {
   margin-bottom: 2rem;
   transition: all 0.3s;
-  background: #efefef;
+  background: #fdfafa;
   border-radius: 35px;
 }
 .cid-rUTuZfMywc .card .card-header {
@@ -1534,7 +1534,7 @@ a {
   padding-right: 1rem;
 }
 .cid-rUTuZfMywc .card .card-header a.panel-title h4:hover {
-  color: #b1976b;
+  color: #354463;
 }
 .cid-rUTuZfMywc .sign {
   font-family: 'FontAwesome' !important;
@@ -1547,13 +1547,13 @@ a {
   width: 52px;
 }
 .cid-rUTuZfMywc .mbr-iconfont {
-  border: 2px solid #b1976b;
+  border: 2px solid #354463;
   border-radius: 50%;
-  color: #b1976b;
+  color: #354463;
 }
 .cid-rUTuZfMywc .mbri-arrow-up {
   background-color: transparent !important;
-  color: #b1976b !important;
+  color: #354463 !important;
 }
 .cid-rUTuZfMywc .mbri-arrow-up:before {
   content: "\f068";
@@ -1569,6 +1569,7 @@ a {
 }
 .cid-rUTuZfMywc .panel-text {
   padding: 0rem;
+  color: #111111;
 }
 .cid-rUTuZfMywc .panel-collapse {
   margin-top: -1px;
@@ -1625,7 +1626,7 @@ a {
   left: 0;
   z-index: 1;
   position: absolute;
-  background-color: rgba(182, 161, 136, 0.2);
+  background-color: rgba(53, 68, 99, 0.2);
   height: 100%;
   width: 100%;
   pointer-events: none;
